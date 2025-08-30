@@ -1,0 +1,1 @@
+This project is my first attempt at training a classification machine learning model from scikit learn! In previous projects, I used k-nearest neighbors for classification in RStudio (written in R), so I wanted to attempt something similar using python instead. 
